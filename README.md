@@ -6,6 +6,7 @@
 - 📫 How to reach me: [LinkedIn @theashishkumargupta](https://www.linkedin.com/in/theashishkumargupta/)
 - 😄 Pronouns: ... He / His
 
+![enter image description here](https://komarev.com/ghpvc/?username=ashishugi&color=green)
 
 ![enter image description here](https://github-readme-stats.vercel.app/api?username=ashishugi)
 
