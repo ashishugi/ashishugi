@@ -41,7 +41,7 @@
 <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
 <div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashishugi&show_icons=true&locale=en&layout=compact" alt="ashishugi" /></p>
-
+<br/><br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishugi&show_icons=true&theme=tokyonight" alt="ashishugi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishugi&theme=tokyonight" alt="ashishugi" /></p>
