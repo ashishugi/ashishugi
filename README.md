@@ -39,10 +39,11 @@
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
-<div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashishugi&show_icons=true&locale=en&layout=compact" alt="ashishugi" /></p>
-<br/><br/>
+
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishugi&show_icons=true&theme=tokyonight" alt="ashishugi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishugi&theme=tokyonight" alt="ashishugi" /></p>
-</div>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashishugi&show_icons=true&locale=en&layout=compact" alt="ashishugi" /></p>
