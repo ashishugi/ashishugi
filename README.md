@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ashish Kumar Gupta</h1>
 <h3 align="center">I love to Develop . I am creative . I love to Explore , learn and exploit .</h3>
 
-- 🔭 I’m currently working on **React**
-- 🌱 I’m currently learning **React**
-- 👯 I’m looking to collaborate on **Frontend Projects**
-- 💬 Ask me about **react,angular**
+- 🔭 I work on **Java and React**
+- 🌱 I’m currently learning **Backend**
+- 👯 I’m looking to collaborate on **Backend and Frontend Projects**
+- 💬 Ask me about **Java and React**
 - 📫 How to reach me **ashishkumarguptacse@gmail.com**
 
 
